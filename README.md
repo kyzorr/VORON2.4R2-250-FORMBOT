@@ -23,7 +23,7 @@ This repository contains configuration files and assembly notes for a custom-bui
 - **Stealthburner Support**: Achieves quieter operation and higher-quality prints.
 
 ## Credits:
-- **[VORONdesign](https://github.com/VoronDesign)**: 
+- **[VORONdesign](https://github.com/VoronDesign)**
 - **[KAMP - Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)**
 - **[Jontek2's Print_Start Guide](https://github.com/jontek2/A-better-print_start-macro)**
 - **[VORON-SB-LED](https://github.com/VoronDesign/Voron-Afterburner/blob/sb-beta/Klipper_Macros/stealthburner_leds.cfg)**
